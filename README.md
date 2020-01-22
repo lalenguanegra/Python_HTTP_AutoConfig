@@ -15,3 +15,7 @@ Run:
 Python_Server.bat
 
 ![Python_Server](https://github.com/lalenguanegra/Python_HTTP_AutoConfig/blob/master/server.png)
+
+![qr](https://i.ibb.co/TcvZnw0/QR.png)
+
+https://pypi.org/project/qrcode/
