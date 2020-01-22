@@ -1,6 +1,7 @@
 @echo off
 bash ip.sh
 bash ip.sh > ip.txt
-set /p myVar=<ip.txt
+python HTTP.py
 TIMEOUT /T 10
-python -m http.server 8080 --bind %myVar%
+set /p myVar=<ip.txt
+python -m http.server 8000 --bind %myVar%
