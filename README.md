@@ -6,6 +6,8 @@ Requirements:
 
 https://www.python.org/
 
+https://pypi.org/project/qrcode/
+
 https://code.visualstudio.com/remote-tutorials/wsl/enable-wsl
 
 https://www.microsoft.com/store/productId/9NBLGGH4MSV6
@@ -18,4 +20,6 @@ Python_Server.bat
 
 ![qr](https://i.ibb.co/TcvZnw0/QR.png)
 
-https://pypi.org/project/qrcode/
+![HTTP](https://i.ibb.co/f4BdZ5J/example.png)
+
+
